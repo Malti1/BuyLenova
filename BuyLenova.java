@@ -99,5 +99,7 @@ import org.testng.annotations.Test;
         System.out.println("Click on checkout");
         driver.findElement(By.className("checkout-as-guest-button")).click();
         System.out.println("Click on Checkout as Guest");
+
     }
+
     }
